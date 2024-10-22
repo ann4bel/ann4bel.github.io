@@ -1,0 +1,5 @@
+bundle exec jekyll serve
+= hosts website locally
+
+bundle info [gem-theme]
+= returns info on theme

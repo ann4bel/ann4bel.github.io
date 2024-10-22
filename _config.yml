@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hi! I'm Annabel.
+title: annabel's docs
 email: ann.bel75@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  And Annabel needs a yob.
+  a portfolio!
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: by-the-sea.github.io
 url: https://by-the-sea.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ann4bel
+github_username: ann4bel
 
 # Build settings
 # remote_theme: broccolini/swiss # $ bundle info swiss
+theme: just-the-docs
 include: ['_pages']
-theme_color: red
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
