@@ -5,10 +5,12 @@ permalink: /projects/
 ---
 
 ## Samir Gym
-An autonomous racing test environment for reinforcement learning. 
+An autonomous racing multi-agent test environment for reinforcement learning. 
 
 ## ML project
 
 ## 311 calls
 
-## FISH
+## which gnome are you?
+
+## FISH (in progress)
