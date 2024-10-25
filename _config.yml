@@ -22,7 +22,8 @@ title: Annabel's docs
 email: ann.bel75@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a portfolio!
-logo: extras/images/house-sea.png
+logo: assets/house-sea.png
+favicon_ico: "/assets/favicon.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: by-the-sea.github.io
 url: https://by-the-sea.github.io # the base hostname & protocol for your site, e.g. http://example.com
