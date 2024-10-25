@@ -5,12 +5,13 @@ permalink: /projects/
 ---
 
 ## Samir Gym
-An autonomous racing multi-agent test environment for reinforcement learning. 
+An autonomous racing multi-agent test environment for reinforcement learning. Samir Gym uses Gymnasium and the [PettingZoo](https://pettingzoo.farama.org/) API.
+
+## FISH (in progress)
+
+## which gnome are you?
+Silly quiz that I made. And by silly I mean extremely important. Find out what kind of gnome you are here!
 
 ## ML project
 
 ## 311 calls
-
-## which gnome are you?
-
-## FISH (in progress)

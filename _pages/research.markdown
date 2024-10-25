@@ -12,7 +12,10 @@ permalink: /research/
 *Amorphization of a forsterite lattice*
 
 ## A Survey of Truthfulness in Differentially Private Mechanism Design
+*Abstract:* In recent years, differential privacy has become a well-accepted standard for the protection of sensitive information. As our capacity to collect and analyze data improves, rigorous privacy budgets and mechanisms to improve truthfulness become valuable topics of research. In this survey, we will examine how truthfulness and differential privacy are intrinsically connected in the field of mechanism design for several widely-studied game theory models—crowdsensing, auctions, and matching. This paper will introduce mechanisms with various truthfulness and privacy guarantees, evaluate the latest progress in theoretical and empirical development for different game applications, and present further avenues for research. *Written for a UVA class on Data Privacy.*
 
-<object data="{{ site.url }}{{ site.baseurl }}/extras/pdfs/DPaper.pdf" width="500" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/extras/pdfs/DPaper.pdf" width="700" height="500" type="application/pdf"></object>
 
 ## Spin physics
+
+## Crayfish

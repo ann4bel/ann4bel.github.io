@@ -12,7 +12,7 @@ A little about me—my background is in autonomous systems, AI/ML, and web devel
 
 I was on the motion planning team for [Cavalier Autonomous Racing](https://autonomousracing.dev/), and I conducted physics research with the [Spin Physics Group](https://twist.phys.virginia.edu/research.html) and (currently) the [Laboratory for Astrophysics and Surface Physics](https://engineering.virginia.edu/labs-groups/LASP). 
 
-I interned at **Yext**, doing front-end development, and **Trust Lab**, studying internet safety policy and text classification. 
+I interned at [Yext](https://www.yext.com/), doing front-end development, and [Trust Lab](https://www.trustlab.com/), studying internet safety policy and text classification. 
 
 In 2022, I represented UVA at the North American Championships for **competitive programming**. I also played violin with First Year Players, volunteered with Alpha Phi Omega, and helped organize the Girls Who Code hackathon. 
 
