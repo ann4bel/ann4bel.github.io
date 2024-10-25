@@ -17,5 +17,3 @@ permalink: /research/
 <object data="{{ site.url }}{{ site.baseurl }}/extras/pdfs/DPaper.pdf" width="700" height="500" type="application/pdf"></object>
 
 ## Spin physics
-
-## Crayfish
