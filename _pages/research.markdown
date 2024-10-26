@@ -22,5 +22,4 @@ permalink: /research/
 *Relationship between the kinematic Φ and the DVCS cross section*
 
 ![error_graphs](../assets/error_graphs.png)
-*Error in the extraction of Compton Form Factors using Artificial Neural Networks*![error_graphs](../assets/error_graphs.png)
 *Error in the extraction of Compton Form Factors using Artificial Neural Networks*
