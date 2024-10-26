@@ -16,6 +16,6 @@ I interned at [Yext](https://www.yext.com/), doing front-end development, and [T
 
 In 2022, I represented UVA at the North American Championships for **competitive programming**. I also played violin with First Year Players, volunteered with Alpha Phi Omega, and helped organize the Girls Who Code hackathon. 
 
-In my free time, I like to run around outdoors, solve the NYT crossword, and play violin + guitar. 
+In my free time, I like to run around outdoors, solve the NYT crossword, and jam on the violin. 
 
 This website documents (😉) my past projects and research.

@@ -9,9 +9,11 @@ An autonomous racing multi-agent test environment for reinforcement learning. Sa
 
 ## FISH (in progress)
 
-## which gnome are you?
-Silly quiz that I made. And by silly I mean extremely important. Find out what kind of gnome you are here!
+## DMV appointment bot
 
-## ML project
+<!-- ## which gnome are you?
+Silly quiz that I made. And by silly I mean extremely important. Find out what kind of gnome you are here! -->
 
-## 311 calls
+<!-- ## ML project
+
+## 311 calls -->
