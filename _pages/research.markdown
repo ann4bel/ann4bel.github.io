@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+nav_order: 2
 ---
 
 ## Helium Bubble Formation with LAMMPS
@@ -12,7 +13,7 @@ permalink: /research/
 *Amorphization of a forsterite lattice*
 
 ## A Survey of Truthfulness in Differentially Private Mechanism Design
-*Abstract:* In recent years, differential privacy has become a well-accepted standard for the protection of sensitive information. As our capacity to collect and analyze data improves, rigorous privacy budgets and mechanisms to improve truthfulness become valuable topics of research. In this survey, we will examine how truthfulness and differential privacy are intrinsically connected in the field of mechanism design for several widely-studied game theory models—crowdsensing, auctions, and matching. This paper will introduce mechanisms with various truthfulness and privacy guarantees, evaluate the latest progress in theoretical and empirical development for different game applications, and present further avenues for research. *Written for a UVA class on Data Privacy. Read more [here]({{ site.url }}/assets/DPaper.pdf).*
+*Abstract:* In recent years, differential privacy has become a well-accepted standard for the protection of sensitive information. As our capacity to collect and analyze data improves, rigorous privacy budgets and mechanisms to improve truthfulness become valuable topics of research. In this survey, we will examine how truthfulness and differential privacy are intrinsically connected in the field of mechanism design for several widely-studied game theory models—crowdsensing, auctions, and matching. This paper will introduce mechanisms with various truthfulness and privacy guarantees, evaluate the latest progress in theoretical and empirical development for different game applications, and present further avenues for research. *Written for a UVA class on Data Privacy. Read the full paper [here]({{ site.url }}/assets/DPaper.pdf).*
 
 ## Investigating the DVCS Formulations
 [Abstract]({{ site.url }}/assets/spin_abstract_2021.pdf) by L. Calero, D. Keller for the UVA Spin Physics Group.

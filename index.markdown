@@ -3,6 +3,7 @@ layout: page
 title: Home
 description: "a little about me..."
 permalink: /
+nav_order: 1
 ---
 
 # **Hi, I'm Annabel! 👋**
@@ -14,7 +15,7 @@ I was on the motion planning team for [Cavalier Autonomous Racing](https://auton
 
 I interned at [Yext](https://www.yext.com/), doing front-end development, and [Trust Lab](https://www.trustlab.com/), studying internet safety policy and text classification. 
 
-In 2022, I represented UVA at the North American Championships for **competitive programming**. I also played violin with First Year Players, volunteered with Alpha Phi Omega, and helped organize the Girls Who Code hackathon. 
+In 2022, I represented UVA at the North American Championships for **competitive programming**. I also played violin with First Year Players, volunteered with Alpha Phi Omega, and was an organizer of the Girls Who Code hackathon. 
 
 In my free time, I like to run around outdoors, solve the NYT crossword, and jam on the violin. 
 
