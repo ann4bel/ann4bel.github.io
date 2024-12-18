@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Helium Bubble Formation with LAMMPS
 
-*Abstract:* Airless bodies in space are subject to space weathering, including solar wind ion irradiation. The aggregation of implanted solar wind helium atoms into bubbles has been previously observed in meteorites and lunar samples. The degree of helium implantation leading to the formation of these structures is not well studied, yet it is required to simulate realistic ion-surface interactions in laboratory experiments. Using molecular dynamics simulations, we investigate the morphology and diffusion of helium bubbles in forsterite and enstatite, two major rock-forming silicate minerals. *Presenting at the AGU Conference 2024.*
+*Abstract:* Airless bodies in space are subject to space weathering, including solar wind ion irradiation. The aggregation of implanted solar wind helium atoms into bubbles has been previously observed in meteorites and lunar samples. The degree of helium implantation leading to the formation of these structures is not well studied, yet it is required to simulate realistic ion-surface interactions in laboratory experiments. Using molecular dynamics simulations, we investigate the morphology and diffusion of helium bubbles in forsterite and enstatite, two major rock-forming silicate minerals. *Gave a [presentation]({{ site.url }}/assets/AGU2024.pdf) at the AGU Conference 2024.*
 
 ![try24](../assets/diffusion_try24_5.gif)
 *Amorphization of a forsterite lattice*

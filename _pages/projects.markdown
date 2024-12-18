@@ -22,6 +22,9 @@ and our car in action!
 ## DMV appointment bot
 Scrapes the DMV appointment site and notifies you when there's an open appointment slot.  Requires Selenium, Chrome WebDriver, and a Discord bot (for notifications). Check out the code [here](https://github.com/ann4bel/dmv_bot/tree/main).
 
+<!-- ## Flight Delays with ML
+A deep learning [model](https://colab.research.google.com/drive/1UJv0qe6X-IIiqMqFKQ2js24aY_ggsksE?usp=sharing) that predicts whether or not a flight will be delayed. -->
+
 ## FISH (in development)
 an online multiplayer card game 🐟
 
